@@ -55,4 +55,16 @@ RentVideo is a RESTful API service built with Spring Boot, Java 21, Gradle, and 
 - Passwords are securely stored using BCrypt hashing.
 
 ## Project Structure
-
+```
+src/
+└── main/
+└── java/
+└── com/
+└── rentvideo/
+├── controller/ # REST APIs
+├── dto/ # Data Transfer Objects
+├── entity/ # JPA Entities
+├── repository/ # Spring Data Repositories
+├── security/ # Security Configurations
+└── service/ # Business Logic
+``
