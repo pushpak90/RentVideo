@@ -32,7 +32,7 @@ RentVideo is a RESTful API service built with Spring Boot, Java 21, Gradle, and 
 ### Installation
 
 1. Clone the repo:
-- git clone https://github.com/your-username/RentVideo.git
+- git clone [https://github.com/your-username/RentVideo.git](https://github.com/pushpak90/RentVideo.git)
 - cd RentVideo
 
 ## API Endpoints
